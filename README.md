@@ -3,7 +3,7 @@ A simple service that allow connection to ruby tapas content with url parameters
 
 ## Usage
 1. Buy a subscription to ruby tapas.
-1. Add the following link to your favourite podcatcher app: https://tapas-translator.herokuapp.com/*your-email*/*your-password*/rubytapas.dpdcart.com/feed
+1. Add the following link to your favourite podcatcher app: https://tapas-translator.herokuapp.com/get/*your-email*/*your-password*/rubytapas.dpdcart.com/feed
 
 ## Frequently answered questions
 ### Why aren't you using url parameters?
