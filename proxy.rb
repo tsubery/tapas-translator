@@ -7,7 +7,5 @@ get '/get/:username/:password/*' do
 
   content_type response.content_type
   status response.status
-  p response.status
-  p response.content_type
   response.body
 end
