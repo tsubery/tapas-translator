@@ -6,8 +6,7 @@ class Tapas::Response
   def initialize request
     @request = request
     @response = Typhoeus.get url,
-      userpwd: basic_auth_string,
-      verbose: true
+      userpwd: basic_auth_string
   end
 
   def body
