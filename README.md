@@ -11,8 +11,8 @@ It somehow conflicts with the rss schema.
 
 ### Is this service reliable?
 It is hosted on heroku free tier so the service will sleep for 6 hours every day.
-There should be plenty of time to download new episodes.
+There should be plenty of time to download new episodes but occasionally it will fail.
 
 ### Are you buffering 200MB video files while blocking the response?
 It's not ideal and I wouldn't do it for client code but it seems to work.
-Just trying to scratch my own itch here.
+Just trying to scratch my own itch here, don't judge me :)
